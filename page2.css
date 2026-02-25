@@ -1,0 +1,24 @@
+h1 {
+  font-family: 'Cairo', sans-serif;
+  background-color: #d2b48c;
+  color: white;
+  text-align: center;
+  padding: 40px 20px;
+  font-size: 2.5rem;
+}
+
+body {
+  background-color: #ffffff;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #333;
+  line-height: 1.8;
+  direction: rtl;
+}
+
+p {
+  color: #555555;
+  max-width: 95%;
+  padding: 20px;
+  text-align: justify;
+  font-size: 1.1rem;
+}
